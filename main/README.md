@@ -32,7 +32,8 @@ const carlosazaustre = {
 };
 ```
 <br/>
-## About me...
+# About me...
+
 ```js
 const DaCuteRaccoon = {
   pronouns: ["he/him", "hacker/hecker", "coder/coder"],
